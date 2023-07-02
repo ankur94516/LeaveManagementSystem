@@ -13,6 +13,6 @@ namespace LeaveManagementSystem.Data
         public string EmployeeId { get; set; }
         public DateTime DateCreated { get; set; }
         public DateTime DateModified { get; set; }
-
+        
     }
 }
